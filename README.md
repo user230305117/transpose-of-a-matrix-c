@@ -12,7 +12,7 @@ This program takes a matrix from the user and calculates its transpose (swapping
 2. Compile the `main.c` file.
 3. Run the generated executable.
 
-## 📋 Sample Output
+## Sample Output
 ```text
 Original Matrix:
 1 2 3 
